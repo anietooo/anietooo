@@ -4,7 +4,7 @@ Soy técnico superior (Junior) en Desarrollo de Aplicaciones Web (DAW). Me apasi
 ## 🌐 Contacto
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-nieto-b33170345/)  
-📧 alexnieto2005@gmail.com • 📞 +34 638 031 794
+📧 alexnieto2005@gmail.com
 
 ---
 
